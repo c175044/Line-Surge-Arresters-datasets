@@ -12,19 +12,14 @@ dataset-lsa/
 │   ├── 0001.txt
 │   ├── 0002.txt
 │   └── ...
-├── scripts/
-│   ├── visualize.py
-│   └── ...
 ├── README.md
 ├── LICENSE
 └── requirements.txt
 ```
 
 - `data/`: Stores all point cloud txt files.
-- `scripts/`: (Optional) Stores visualization or processing scripts.
 - `README.md`: Project documentation.
 - `LICENSE`: Open source license.
-- `requirements.txt`: Dependency list (if scripts are provided).
 
 ## Data Format Description
 
@@ -46,7 +41,7 @@ Each point cloud file is in `.txt` format, with each line representing a point a
 
 ## Category Description
 
-| label | Category Name (Example) |
+| label | Category Name           |
 |-------|------------------------|
 | 0     | Category A             |
 | 1     | Category B             |
