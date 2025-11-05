@@ -33,8 +33,8 @@ Each point cloud file is in `.txt` format, with each line representing a point a
 
 **Example:**
 ```
-1.234 2.345 3.456 0
-2.111 3.222 4.333 1
+1.234 2.345 3.456 1
+2.111 3.222 4.333 2
 ...
 ```
 
@@ -48,7 +48,6 @@ Each point cloud file is in `.txt` format, with each line representing a point a
 | 4     | Insulator              |
 
 
-> Please fill in the actual category names according to your dataset.
 
 ## Data Download
 
