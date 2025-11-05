@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-This project releases an open-source dataset containing 896 annotated LSA point cloud instances. Each point cloud file is in txt format, suitable for tasks such as point cloud classification and segmentation. Both academic and industrial communities are welcome to use this dataset for related research.
+This project releases an open-source dataset containing 896 annotated LSA point cloud instances. Each point cloud file is in txt format, suitable for tasks such as point cloud classification and segmentation. Both academic and industrial communities are welcome to use this dataset for related research. The data will be uploaded by November 30, 2025. Please wait patiently.
 
 ## Dataset Structure
 
@@ -13,8 +13,7 @@ dataset-lsa/
 │   ├── 0002.txt
 │   └── ...
 ├── README.md
-├── LICENSE
-└── requirements.txt
+└──LICENSE
 ```
 
 - `data/`: Stores all point cloud txt files.
@@ -43,9 +42,11 @@ Each point cloud file is in `.txt` format, with each line representing a point a
 
 | label | Category Name           |
 |-------|------------------------|
-| 0     | Category A             |
-| 1     | Category B             |
-| ...   | ...                    |
+| 1     | Pylon                  |
+| 2     | Power line             |
+| 3     | Line surge arrester    |
+| 4     | Insulator              |
+
 
 > Please fill in the actual category names according to your dataset.
 
