@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-This project releases an open-source dataset containing 896 annotated LSA point cloud instances. Each point cloud file is in txt format, suitable for tasks such as point cloud classification and segmentation. Both academic and industrial communities are welcome to use this dataset for related research. The data will be uploaded by November 30, 2025. Please wait patiently.
+This project releases an open-source dataset containing 896 annotated LSA point cloud instances. Each point cloud file is in txt format, suitable for tasks such as point cloud classification and segmentation. Both academic and industrial communities are welcome to use this dataset for related research. Now we have uploaded part of the data. The complete data will be uploaded by November 30, 2025. Please wait patiently.
 
 ## Dataset Structure
 
