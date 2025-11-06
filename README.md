@@ -44,8 +44,8 @@ Each point cloud file is in `.txt` format, with each line representing a point a
 |-------|------------------------|
 | 1     | Pylon                  |
 | 2     | Power line             |
-| 3     | Line surge arrester    |
-| 4     | Insulator              |
+| 3     | Insulato               |
+| 4     | Line surge arrester    |
 
 
 
@@ -57,18 +57,6 @@ Due to GitHub's file size limitations, the complete dataset can be downloaded vi
 
 This repository only provides a subset of sample data.
 
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```
-@misc{lsa_pointcloud_dataset,
-  title={LSA Point Cloud Dataset},
-  author={Your Name},
-  year={2024},
-  howpublished={\url{https://github.com/yourname/dataset-lsa}}
-}
-```
 
 ## License
 
