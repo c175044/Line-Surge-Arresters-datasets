@@ -44,7 +44,7 @@ Each point cloud file is in `.txt` format, with each line representing a point a
 |-------|------------------------|
 | 1     | Pylon                  |
 | 2     | Power line             |
-| 3     | Insulato               |
+| 3     | Insulator               |
 | 4     | Line surge arrester    |
 
 
