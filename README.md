@@ -53,7 +53,8 @@ Each point cloud file is in `.txt` format, with each line representing a point a
 
 Due to GitHub's file size limitations, the complete dataset can be downloaded via the following link:
 
-- [Baidu Netdisk/Google Drive/Aliyun Drive, etc.] (Please fill in the download link here)
+- [Google Drive:https://drive.google.com/file/d/1L3r1ZAub8Pc2aV-LL61mJJBHl4oKKUn5/view?usp=drive_link]
+- [OneDrive:https://1drv.ms/u/c/ef389807d02ff661/EZ7GLTVLRcBBvdoraTA4eDYBiyF4QqKRxETTBB8sFnq3pA?e=IbcG62]
 
 This repository only provides a subset of sample data.
 
